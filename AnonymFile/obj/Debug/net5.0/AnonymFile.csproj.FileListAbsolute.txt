@@ -1,0 +1,12 @@
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\bin\Debug\net5.0\AnonymFile.deps.json
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\bin\Debug\net5.0\AnonymFile.dll
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\bin\Debug\net5.0\ref\AnonymFile.dll
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\bin\Debug\net5.0\AnonymFile.pdb
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.csprojAssemblyReference.cache
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.AssemblyInfoInputs.cache
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.AssemblyInfo.cs
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.csproj.CoreCompileInputs.cache
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.dll
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\ref\AnonymFile.dll
+C:\Users\rafae\Documents\GitHub\AnonymFile\AnonymFile\obj\Debug\net5.0\AnonymFile.pdb
